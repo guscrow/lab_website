@@ -8,7 +8,7 @@
         The red panda is a native species to Nepal, Myanmar, and southwestern China, but can also be seen in many zoos.<br>
          Today, Red Pandas are endangered due the deforestation of their natural habitat.</p>
       <p><a href="images.html">Images of Red Pandas</a></p>
-      <p><a href="facts.html">Images of Red Pandas</a></p>
+      <p><a href="facts.html">Facts about Red Pandas</a></p>
 
 </body>
 </html>
