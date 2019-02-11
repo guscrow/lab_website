@@ -11,7 +11,8 @@ newImage[minePos] = "minenew.png";
 
 var n = change(newImage,id)
 {
-  var box = document.getElementById(id);
+  var num = id.toSring();
+  var box = document.getElementById(num);
   var newBox = box.src=newImage[id];
   return 0;
 }
