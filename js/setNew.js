@@ -9,9 +9,9 @@ var minePos = Math.floor(Math.random() * 24);
 
 newImage[minePos] = "minenew.png";
 
-function change(newImage,id)
+var n = change(newImage,id)
 {
   var box = document.getElementById(id);
   var newBox = box.src=newImage[id];
-
+  return 0;
 }
