@@ -1,6 +1,6 @@
 
 var newImage = [];
-for (int i=0; i<25; i++)
+for (i=0; i<25; i++)
 {
   newImage.push("Greenboxnew.jpg");
 }
